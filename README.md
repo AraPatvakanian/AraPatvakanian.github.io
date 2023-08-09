@@ -1,6 +1,6 @@
 # [AraPatvakanian.github.io](https://github.com/AraPatvakanian/AraPatvakanian.github.io)
 
-Ara Patvakanian ([arapatvakanian.github.io](https://arapatvakanian.github.io))
+[Ara Patvakanian](https://arapatvakanian.github.io)
 
 2023.08.09
 
