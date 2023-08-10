@@ -6,7 +6,7 @@
 
 This is my personal website.
 
-The license for AraPatvakanian.github.io and all files in this GitHub repository can be found at LICENSE.md.
+The license for the AraPatvakanian.github.io GitHub repository can be found at LICENSE.md.
 
 Copyright (c) 2023–Present Ara Patvakanian
 
