@@ -89,7 +89,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy # Change to "wowchemy" (no quotes) to enable; change to '' to disable
+    provider: '' # Change to "wowchemy" (no quotes) to enable; change to '' to disable
     algolia:
       app_id: ''
       api_key: ''

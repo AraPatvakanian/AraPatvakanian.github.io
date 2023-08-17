@@ -85,9 +85,9 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I have worked on various research projects; information on these can be found on my LinkedIn. Starting in the fall of 2023, I will be writing my honors thesis in economics. After graduating from the University of Pennsylvania, I hope to pursue a PhD in Economics.
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I have worked on various research projects; information on these can be found on my LinkedIn. Starting in the fall of 2023, I will be writing my honors thesis in economics. After graduating, I hope to work in economics research and eventually pursue a PhD in Economics.
 
 At the University of Pennsylvania, I serve in multiple leadership positions: I am the current chairman of the Economics Department Undergraduate Advisory Board, Co-President of Penn's Undergraduate Economics Society, Co-President of Penn's Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
 
-In my free time, I enjoy playing my guitar, which I have been playing for over 11 years, and listening to music—mostly rock, classical, and Armenian folk. Besides the guitar, I also play the ukelele. Last, I am currently learning French.
+In my free time, I enjoy playing my guitar—which I have been playing for over 11 years—and listening to music. Besides the guitar, I also play the ukelele. Last, I am currently learning French.
 {style="text-align: justify;"}
