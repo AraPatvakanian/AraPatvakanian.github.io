@@ -439,7 +439,7 @@ sections:
       subtitle:
       # text: |-
       # Contact (add or remove contact options as necessary)
-      email: arap15 <at> sas <dot> upenn <dot> edu (Replace with Symbols)
+      email: arap15<at>sas<dot>upenn<dot>edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
