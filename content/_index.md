@@ -238,7 +238,7 @@ sections:
             - PSCI 181 – Modern Political Thought
             - EALC 050 – Anime to Zen Aesthetics
             
-            <font size=2> *Dean's List suspended university-wide for 2020–2021 academic year.* </font>
+            <font size=2> *Dean's List suspended university-wide for the 2020–2021 academic year.* </font>
           organization: University of Pennsylvania
           organization_url:
           url: ''
