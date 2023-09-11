@@ -136,12 +136,12 @@ sections:
                 font-size: 14px;
               }
             </style>
-            - STAT 5150: Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
-            - ECON 6100: Microeconomic Theory &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
-            - ECON 4900: Honors Thesis Seminar
-            - PSCI 4100: Power Sharing
-            - PHIL 4182: Kant II
-            - PHIL 2431: Contemporary Political Thought
+            - STAT 5150 – Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
+            - ECON 6100 – Microeconomic Theory &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
+            - ECON 4900 – Honors Thesis Seminar
+            - PSCI 4100 – Power Sharing
+            - PHIL 4182 – Kant II
+            - PHIL 2431 – Contemporary Political Thought
           organization: University of Pennsylvania
           organization_url:
           url: ''
