@@ -89,5 +89,5 @@ Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան
 
 At the University of Pennsylvania, I serve in multiple leadership positions: I am the current chairman of the Economics Department Undergraduate Advisory Board, Co-President of Penn's Undergraduate Economics Society, Co-President of Penn's Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
 
-In my free time, I enjoy playing my guitar—which I have been playing for over 11 years—and listening to music. I also play the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte-Cristo* by Alexander Dumas.
+In my free time, I enjoy playing my guitar—which I have been playing for over 11 years—and listening to music. I also play the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
 {style="text-align: justify;"}
