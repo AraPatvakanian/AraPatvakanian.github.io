@@ -136,8 +136,8 @@ sections:
                 font-size: 14px;
               }
             </style>
-            - STAT 5150 – Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
-            - ECON 6100 – Microeconomic Theory &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
+            - STAT 5150 – Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
+            - ECON 6100 – Microeconomic Theory &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
             - ECON 4900 – Honors Thesis Seminar
             - PSCI 4100 – Power Sharing
             - PHIL 4182 – Kant II
@@ -157,7 +157,7 @@ sections:
             </style>
             - MATH 3610 – Real Analysis II
             - STAT 4750 – Sample Survey Design
-            - ECON 6110 – Game Theory & Applications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
+            - ECON 6110 – Game Theory & Applications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
             - ECON 4560 – History of Economic Thought
             - PHIL 1571 – Repairing the Planet: Tools for the Climate Emergency
 

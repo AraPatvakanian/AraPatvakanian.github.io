@@ -27,14 +27,14 @@ bio: Mathematical Economics & Political Science @ UPenn
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Applied Econometrics
-  - Statistical Inference & Learning
+  - Monetary Policy
+  - Causal Inference & Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.A., Mathematical Economics & Political Science (2020–2024)
-      institution: University of Pennsylvania 
+    - course: B.A., Mathematical Economics & Political Science
+      institution: University of Pennsylvania (2024)
       year: 
     # - course: High School Diploma (2016 – 2020)
     #   institution: Crescenta Valley High School
@@ -85,7 +85,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I have worked on various research projects; information on these can be found on my LinkedIn. Starting in the fall of 2023, I will be writing my honors thesis in economics. After graduating, I hope to work in economics research and eventually pursue a PhD in Economics.
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I have worked on various research projects; information on these can be found on my LinkedIn. I am currently writing my honors thesis in economics, tentatitively entitled *Modeling Macroeconomic Performance through Energy Sourcing Dynamics*. After graduating, I plan to work in economics research and eventually pursue a PhD in Economics.
 
 At the University of Pennsylvania, I serve in multiple leadership positions: I am the current chairman of the Economics Department Undergraduate Advisory Board, Co-President of Penn's Undergraduate Economics Society, Co-President of Penn's Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
 
