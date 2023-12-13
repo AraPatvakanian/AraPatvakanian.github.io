@@ -8,6 +8,6 @@ This is my personal website.
 
 The license for the AraPatvakanian.github.io GitHub repository can be found at LICENSE.md.
 
-Copyright (c) 2023–Present Ara Patvakanian
+Copyright © 2023–Present Ara Patvakanian
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND)
