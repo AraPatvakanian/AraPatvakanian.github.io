@@ -1,0 +1,39 @@
+# Theme Metadata
+name = "aptheme"
+
+[light]
+  # Primary
+  primary = "#0a84ff"
+
+  # Menu
+  menu_primary = "#FFFFFF"
+  menu_text = "#000000"
+  menu_text_active = "#2862FF"
+  menu_title = "#000000"
+
+  background = "#FFFFFF"
+
+  # Home Sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#F7F7F7"
+  
+  link = "#0a84ff"
+  link_hover = "#2862FF"
+
+[dark]
+  # Primary
+  primary = "#409cff"
+#  text = "#FFFFFF"
+#  link_decoration = "underline"
+  
+  menu_primary = "#161618"
+  menu_text_active = "#007AFF"
+  
+  background = "#161618"
+  
+  # Home Sections
+  home_section_odd = "#161618"
+  home_section_even = "#212124"
+
+  link = "#409cff"
+  link_hover = "#007AFF"

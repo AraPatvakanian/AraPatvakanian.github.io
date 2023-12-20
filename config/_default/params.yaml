@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: aptheme # "minimal" = Default
+  theme_night: aptheme # "minimal" = Default
   font: minimal
   font_size: M
 

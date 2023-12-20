@@ -143,7 +143,7 @@ sections:
             - PHIL 4182 – Kant II
             - PHIL 2431 – Contemporary Political Thought
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>Spring 2023</font>
           certificate_url: 
@@ -163,7 +163,7 @@ sections:
 
             <font size=2>**Dean's List, 2022–2023** </font>
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>Fall 2022</font>
           certificate_url: 
@@ -181,7 +181,7 @@ sections:
             - EESC 1500 – Paleontology
             - EESC 1000 – Introduction to Geology
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>Spring 2022</font>
           certificate_url: 
@@ -202,7 +202,7 @@ sections:
 
             <font size=2>**Dean's List, 2021–2022** </font>
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>Fall 2021</font>
           certificate_url: 
@@ -220,7 +220,7 @@ sections:
             - PSCI 183 – American Political Thought
             - HIST 143 – Foundations of European Thought (From Rome to the Renaissance)
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>Spring 2021</font>
           certificate_url: 
@@ -240,7 +240,7 @@ sections:
             
             <font size=2> *The Dean's List was suspended university-wide for the 2020–2021 academic year.* </font>
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>Fall 2020</font>
           certificate_url: 
@@ -255,9 +255,9 @@ sections:
             - MATH 114 – Calculus III (Multivariate Calculus)
             - ECON 001 – Introduction to Microeconomics
             - PSCI 150 – Introduction to International Relations
-            - WRIT 076 – Writing Seminar in PSCI (The Political Theory of Neoliberlaism)
+            - WRIT 076 – Writing Seminar in PSCI (The Political Theory of Neoliberalism)
           organization: University of Pennsylvania
-          organization_url:
+          organization_url: https://www.upenn.edu/
           url: ''
         - title: <font size=5>2016–2020</font>
           certificate_url: 
@@ -286,7 +286,47 @@ sections:
             
             <font size=2> (Number = Advanced Placement Exam Score) </font>
           organization: Crescenta Valley High School
-          organization_url:
+          organization_url: https://cvhs.gusd.net/
+          url: ''
+        - title: <font size=5>Spring 2018</font>
+          certificate_url: 
+          date_start: '2018-01-01'
+          date_end: '2020-05-31'
+          description: |2-
+            <style>
+              li {
+                font-size: 14px;
+              }
+            </style>
+            Course in Lifeguarding & Water Safety
+
+            Red Cross Certifications (and YMCA Equivalents):
+            - Asthma Inhaler Training
+            - Epinephrine Auto-Injector Training
+            - Lifeguarding, First Aid, CPR, & AED
+            - Administering Emergency Oxygen
+            - Bloodborne Pathogens Training
+            - First Aid for Public Safety Personnel (Title 22)
+            
+          organization: Herbert Hoover High School
+          organization_url: https://hooverhs.gusd.net/
+          url: ''
+        - title: <font size=5>2018–2020</font>
+          certificate_url: 
+          date_start: '2018-01-01'
+          date_end: '2020-06-16'
+          description: |2-
+            <style>
+              li {
+                font-size: 14px;
+              }
+            </style>
+            Dual-Enrollment Student
+            - MATH 110 – Accelerated Precalculus
+            - HIT 197 – Disease Processes
+            
+          organization: Glendale Community College
+          organization_url: https://www.glendale.edu/
           url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
