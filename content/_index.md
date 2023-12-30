@@ -63,6 +63,10 @@ sections:
           description:
           icon: m
           icon_pack: fas
+        - name: Command Line
+          description:
+          icon: terminal
+          icon_pack: fas
         - name: "${\\TeX}$ & ${\\LaTeX}$"
           description:
           icon: "${\\small\\LaTeX}$"
@@ -79,6 +83,10 @@ sections:
           description:
           icon: overleaf
           icon_pack: ai
+        - name: WordPress
+          description:
+          icon: wordpress
+          icon_pack: fab
         - name: Microsoft Office
           description:
           icon: "microsoft"
@@ -87,9 +95,9 @@ sections:
           description:
           icon: "google"
           icon_pack: fab
-        - name: WordPress
+        - name: Unix
           description:
-          icon: wordpress
+          icon: apple
           icon_pack: fab
   - block: features
     id: languages
@@ -102,7 +110,7 @@ sections:
           icon_pack: emoji
         - name: English
           # description: Native
-          icon: ":us: / :gb:"
+          icon: ":us: / :england:"
           icon_pack: emoji
         - name: Spanish
           # description: Fluent

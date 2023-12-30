@@ -28,7 +28,7 @@ bio: Mathematical Economics & Political Science @ UPenn
 interests:
   - Macroeconomics
   - Monetary Policy
-  - Causal Inference & Machine Learning
+  - Statistical Inference & Machine Learning
 
 # Education to show in About widget
 education:
