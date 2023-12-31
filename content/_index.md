@@ -71,6 +71,10 @@ sections:
           description:
           icon: "${\\small\\LaTeX}$"
           icon_pack: emoji
+        - name: "Markdown"
+          description:
+          icon: markdown
+          icon_pack: fab
         - name: Git
           description:
           icon: github
