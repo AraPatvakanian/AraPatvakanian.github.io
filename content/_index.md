@@ -324,7 +324,7 @@ sections:
                 font-size: 14px;
               }
             </style>
-            Dual-Enrollment Student
+            Dual Enrollment Student
             - MATH 110 – Accelerated Precalculus
             - HIT 197 – Disease Processes
             
