@@ -63,7 +63,7 @@ sections:
           description:
           icon: m
           icon_pack: fas
-        - name: Command Line
+        - name: Command Line (Unix)
           description:
           icon: terminal
           icon_pack: fas
@@ -95,10 +95,10 @@ sections:
           description:
           icon: "google"
           icon_pack: fab
-        - name: Unix
-          description:
-          icon: apple
-          icon_pack: fab
+        # - name: Apple
+        #   description:
+        #   icon: apple
+        #   icon_pack: fab
   - block: features
     id: languages
     content:
@@ -306,16 +306,7 @@ sections:
                 font-size: 14px;
               }
             </style>
-            Course in Lifeguarding & Water Safety
-
-            Red Cross Certifications (and YMCA Equivalents):
-            - Asthma Inhaler Training
-            - Epinephrine Auto-Injector Training
-            - Lifeguarding, First Aid, CPR, & AED
-            - Administering Emergency Oxygen
-            - Bloodborne Pathogens Training
-            - First Aid for Public Safety Personnel (Title 22)
-            
+            - Course in Lifeguarding & Water Safety
           organization: Herbert Hoover High School
           organization_url: https://hooverhs.gusd.net/
           url: ''
