@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ara Patvakanian | Website License {license}'
+    notice: '© 2023–{year} Ara Patvakanian | Website License {license}'
     license:
       enable: true
       allow_derivatives: false

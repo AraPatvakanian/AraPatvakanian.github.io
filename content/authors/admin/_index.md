@@ -27,7 +27,7 @@ bio: Mathematical Economics & Political Science @ UPenn
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Monetary Policy
+  - Applied Econometrics
   - Machine Learning
 
 # Education to show in About widget
