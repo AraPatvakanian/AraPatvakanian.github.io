@@ -151,7 +151,7 @@ sections:
             - STAT 4420 – Bayesian Data Analysis
             - ECON 4910 – Economics Honors Thesis Seminar II &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - PSCI 4996 – Topics in Political Theory: Politics & Ethics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
-            - PHIL 6720 – Topics in Mathematical Logic: Game Theory & AI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; <span style="color:red"> **Graduate** </span>
+            - PHIL 6720 – Topics in Mathematical Logic: Game Theory & AI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; <span style="color:red"> **Graduate** </span> &#8239;  <span style="color:#007AFF"> **Seminar** </span>
             - PHIL 2851 – Philosophy of Economics
             - LANG 0100 – Armenian Linguistics
           organization: University of Pennsylvania
