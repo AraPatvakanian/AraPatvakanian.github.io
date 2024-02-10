@@ -138,6 +138,25 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: <font size=5>Spring 2024</font>
+          certificate_url: 
+          date_start: '2024-01-18'
+          date_end: '2024-05-20'
+          description: |2-
+            <style>
+              li {
+                font-size: 14px;
+              }
+            </style>
+            - STAT 4420 – Bayesian Data Analysis
+            - ECON 4910 – Economics Honors Thesis Seminar II &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <span style="color:#007AFF"> **Seminar** </span>
+            - PSCI 4996 – Topics in Political Theory: Politics & Ethics&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &#8239;  <span style="color:#007AFF"> **Seminar** </span>
+            - PHIL 6720 – Topics in Mathematical Logic: Game Theory & AI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; <span style="color:red"> **Graduate** </span>
+            - PHIL 2851 – Philosophy of Economics
+            - LANG 0100 – Armenian Linguistics
+          organization: University of Pennsylvania
+          organization_url: https://www.upenn.edu/
+          url: ''
         - title: <font size=5>Fall 2023</font>
           certificate_url: 
           date_start: '2023-08-29'
@@ -150,9 +169,9 @@ sections:
             </style>
             - STAT 5150 – Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
             - ECON 6100 – Microeconomic Theory &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:red"> **Graduate** </span>
-            - ECON 4900 – Honors Thesis Seminar
-            - PSCI 4100 – Power Sharing
-            - PHIL 4182 – Kant II
+            - ECON 4900 – Economics Honors Thesis Seminar I &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
+            - PSCI 4100 – Power Sharing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
+            - PHIL 4182 – Kant II &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &#8239;  <span style="color:#007AFF"> **Seminar** </span>
             - PHIL 2431 – Contemporary Political Thought
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
@@ -208,7 +227,7 @@ sections:
             - MATH 312 – Linear Algebra
             - STAT 430 – Probability Theory
             - ECON 222 – Microeconometrics
-            - PSCI 380 – Race, Ethnicity, & American Constitutional Law
+            - PSCI 380 – Race, Ethnicity, & American Constitutional Law &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - PSCI 258 – International Human Rights
             - PHIL 001 – Introduction to Philosophy
 

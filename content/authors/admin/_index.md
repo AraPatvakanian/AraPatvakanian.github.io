@@ -87,7 +87,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I have worked on various research projects; information on these can be found on my LinkedIn. I am currently writing my honors thesis in economics. After graduating, I plan to work in economics research and to eventually pursue a Ph.D. in Economics.
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I have worked on various research projects. I am currently writing my honors thesis in economics. After graduating, I plan to work in economics research and to eventually pursue a Ph.D. in economics.
 
 At the University of Pennsylvania, I serve in multiple leadership positions: I am the current chairman of the Economics Department Undergraduate Advisory Board, Co-President of UPenn's Undergraduate Economics Society, Co-President of UPenn's Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
 
