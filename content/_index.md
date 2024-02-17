@@ -152,7 +152,8 @@ sections:
             - ECON 4910 – Economics Thesis Seminar II &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - PSCI 4996 – Topics in Political Theory: Politics & Ethics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - PHIL 6720 – Topics in Mathematical Logic: Game Theory, AI, & Existential Risk &nbsp; &nbsp; &nbsp; &nbsp;  &#8239; <span style="color:red"> **Graduate** </span> &#8239;  <span style="color:#007AFF"> **Seminar** </span>
-            - PHIL 2851 – Philosophy of Economics
+            - PHIL 2851 – Philosophy of Economics (Audit)
+            - PHIL 2851 – Ethics & Education
             - LANG 0100 – Armenian Linguistics
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
