@@ -507,8 +507,8 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         street: 
-        city: Los Angeles
-        region: CA, USA | Philadelphia, PA, USA
+        city: 
+        region: Los Angeles, CA, USA | Philadelphia, PA, USA | Boston, MA, USA
         # postcode: '94305'
         country: United States
         country_code: US
