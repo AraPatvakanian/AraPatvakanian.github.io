@@ -87,9 +87,9 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytic, statistical, and theoretic tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I worked on various research projects and wrote an undergraduate thesis in economics. After graduating, I plan to work in economic research and to eventually pursue a doctorate.
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytical, theoretical, and empirical tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I worked on various research projects and wrote my undergraduate thesis in economics. After graduating, I plan to work in economic research and to eventually pursue a doctorate.
 
-At the University of Pennsylvania, I served in multiple leadership positions: I am the current chairman of the Economics Department Undergraduate Advisory Board, former Co-President of UPenn's Undergraduate Economics Society, Co-President of UPenn's Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
+At the University of Pennsylvania, I serve in multiple leadership positions: I am the current chairman of the Penn Department of Economics Undergraduate Advisory Board, former Co-President of the Penn Undergraduate Economics Society, Co-President of the UPenn Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
 
 In my free time, I enjoy playing my guitar—which I have been playing for over 11 years—and listening to music. I also play the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
 {style="text-align: justify;"}
