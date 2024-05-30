@@ -107,7 +107,8 @@
             <i class="fa-li fa-solid fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <!-- <p class="institution">{{ .institution }}</p> -->
+              <p class="institution">{{ .institution | markdownify }}</p>
             </div>
           </li>
           {{ end }}

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2023-07-19
 type: landing
 
@@ -330,7 +330,7 @@ sections:
                 font-size: 14px;
               }
             </style>
-            - Course in Lifeguarding & Water Safety
+            - Lifeguarding & Water Safety
           organization: Herbert Hoover High School
           organization_url: https://hooverhs.gusd.net/
           url: ''
@@ -502,16 +502,19 @@ sections:
       subtitle:
       # text: |-
       # Contact (add or remove contact options as necessary)
-      email: arap15<at>sas<dot>upenn<dot>edu
+      # email: '[arap15 \<at\> sas \<dot\> upenn \<dot\> edu](mailto:arap15@sas.upenn.edu)'
+      # email: '<span style="font-size: 16px;">[arap15\<at\>sas\<dot\>upenn\<dot\>edu](mailto:arap15@sas.upenn.edu)</span>'
+      email: '<span style="font-size: 16px;"> arap15@sas.upenn.edu </span>'
+      city: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, Massachusetts, USA</span>'
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
-      address:
-        street: 
-        city: 
-        region: Los Angeles, CA, USA | Philadelphia, PA, USA | Boston, MA, USA
-        # postcode: '94305'
-        country: United States
-        country_code: US
+      # address:
+      #   street: 
+      #   city: 
+      #   region: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, MA, USA</span>'
+      #   postcode: 
+      #   country: United States
+      #   country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'

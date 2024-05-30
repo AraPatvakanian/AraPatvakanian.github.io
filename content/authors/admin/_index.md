@@ -14,27 +14,31 @@ last_name: Patvakanian
 superuser: true
 
 # Role/position/tagline
-role: B.A. Candidate, Mathematical Economics & Political Science
+role: Research at Boston Fed
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pennsylvania
-    url: https://www.upenn.edu/
+  - name: Federal Reserve Bank of Boston
+    url: https://www.bostonfed.org/
+  # - name: University of Pennsylvania
+  #   url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mathematical Economics & Political Science @ UPenn
+bio: 
 
 # Interests to show in About widget
 interests:
   - Macroeconomics
-  - Applied Econometrics
-  - Machine Learning
+  - Time Series Econometrics
+  - Monetary Policy
 
 # Education to show in About widget
 education:
   courses:
     - course: B.A., Mathematical Economics & Political Science
-      institution: University of Pennsylvania (2024)
+      # institution: '[University of Pennsylvania](https://www.upenn.edu/) (2024)'
+      # institution: '<span style="font-size:1em;">[University of Pennsylvania](https://www.upenn.edu/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; 2024</span>'
+      institution: '<span style="font-size:11pt;">[University of Pennsylvania](https://www.upenn.edu/) | 2024</span>'
       year: 
     # - course: High School Diploma (2016 – 2020)
     #   institution: Crescenta Valley High School
@@ -69,13 +73,17 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/AraPatvakanian/
+  # - icon: feather
+  #   icon_pack: fas
+  #   link: https://www.duolingo.com/profile/AraPatvakanian
   - icon: feather
     icon_pack: fas
     link: https://www.duolingo.com/profile/AraPatvakanian
-  - icon: twitter
+  # - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/AraPatvakanian
-    label: Twitter
+    # label: Twitter
   # - icon: spotify
   #   icon_pack: fab
   #   link: 
@@ -87,9 +95,9 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am a fourth-year undergraduate in the College of Arts & Sciences at the University of Pennsylvania majoring in Mathematical Economics and Political Science, and minoring in Statistics, Philosophy, and International Development. I am passionate about bringing analytical, theoretical, and empirical tools to bear on various problems of economic, social, and political consequence. Throughout my time at UPenn, I worked on various research projects and wrote my undergraduate thesis in economics. After graduating, I plan to work in economic research and to eventually pursue a doctorate.
-
-At the University of Pennsylvania, I serve in multiple leadership positions: I am the current chairman of the Penn Department of Economics Undergraduate Advisory Board, former Co-President of the Penn Undergraduate Economics Society, Co-President of the UPenn Armenian Students Association, and a Resident Advisor (RA) in Harrison College House.
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania. I am passionate about bringing analytical, theoretical, and empirical tools to bear on various problems of economic, social, and political consequence. My current interests center on macroeconomic modeling, time series econometrics, and monetary policy. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) in April 2024. I will join the Research Department of the Federal Reserve Bank of Boston in June 2024 and plan on pursuing a Ph.D. in economics afterwards. 
+<!-- 
+Throughout my time at Penn, I worked on various research projects and wrote my undergraduate thesis in economics. I also served in multiple leadership positions: I was a two-year member and chairman of the Penn Department of Economics Undergraduate Advisory Board, former Co-President of the Penn Undergraduate Economics Society, Co-President of the Penn Armenian Students Association, and a Resident Advisor (RA) in Harrison College House. -->
 
 In my free time, I enjoy playing my guitar—which I have been playing for over 11 years—and listening to music. I also play the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
 {style="text-align: justify;"}

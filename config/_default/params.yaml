@@ -18,15 +18,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Hugo Academic Theme | Hugo Blox Website Builder'
-    twitter: ''
+    description: 'The Personal Website of Ara Patvakanian'
+    twitter: 'Ara Patvakanian'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: ''
+    google: 'kMnBy2IB8uSAy_mokFSivgEOS2xLggYcwxvoSRurkwY'
     baidu: ''
 
 # Site header
