@@ -59,38 +59,42 @@ sections:
           description:
           icon: python
           icon_pack: fab
+        - name: STATA
+          description:
+          icon: s
+          icon_pack: fab
         - name: MATLAB
           description:
           icon: m
           icon_pack: fas
-        - name: Command Line (Unix)
-          description:
-          icon: terminal
-          icon_pack: fas
-        - name: "${\\TeX}$ & ${\\LaTeX}$"
-          description:
-          icon: "${\\small\\LaTeX}$"
-          icon_pack: emoji
-        - name: "Markdown"
-          description:
-          icon: markdown
-          icon_pack: fab
         - name: Git
           description:
           icon: github
           icon_pack: fab
-        - name: ArcGIS
+        - name: Command Line (Unix)
           description:
-          icon: earth-americas
+          icon: terminal
           icon_pack: fas
+        - name: "Markdown"
+          description:
+          icon: markdown
+          icon_pack: fab
+        - name: "${\\TeX}$ & ${\\LaTeX}$"
+          description:
+          icon: "${\\small\\LaTeX}$"
+          icon_pack: emoji
         - name: Overleaf
           description:
           icon: overleaf
           icon_pack: ai
-        - name: WordPress
-          description:
-          icon: wordpress
-          icon_pack: fab
+        # - name: ArcGIS
+        #   description:
+        #   icon: earth-americas
+        #   icon_pack: fas
+        # - name: WordPress
+        #   description:
+        #   icon: wordpress
+        #   icon_pack: fab
         - name: Microsoft Office
           description:
           icon: "microsoft"
@@ -99,10 +103,10 @@ sections:
           description:
           icon: "google"
           icon_pack: fab
-        # - name: Apple
-        #   description:
-        #   icon: apple
-        #   icon_pack: fab
+        - name: Apple iWork
+          description:
+          icon: apple
+          icon_pack: fab
   - block: features
     id: languages
     content:

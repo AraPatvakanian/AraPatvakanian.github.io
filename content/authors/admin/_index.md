@@ -79,11 +79,14 @@ social:
   - icon: feather
     icon_pack: fas
     link: https://www.duolingo.com/profile/AraPatvakanian
-  # - icon: twitter
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AraPatvakanian
     # label: Twitter
+  # - icon: x-twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/AraPatvakanian
+  #   # label: Twitter
   # - icon: spotify
   #   icon_pack: fab
   #   link: 
