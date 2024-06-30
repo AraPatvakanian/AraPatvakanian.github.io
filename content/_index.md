@@ -160,7 +160,7 @@ sections:
             - PSCI 4996 – Topics in Political Theory: Politics & Ethics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - LANG 0100 – Armenian Linguistics
 
-            <font size=2>**Graduation Flagbearer for Mathematical Economics, Phi Beta Kappa, Distinction in Mathematical Economics, & Summa Cum Laude**</font>
+            <font size=2>**Graduation Flagbearer for Mathematical Economics, Phi Beta Kappa,<br>Distinction in Mathematical Economics, & Summa Cum Laude**</font>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
