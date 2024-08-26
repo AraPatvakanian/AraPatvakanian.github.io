@@ -1,12 +1,11 @@
 # [AraPatvakanian.github.io](https://github.com/AraPatvakanian/AraPatvakanian.github.io) License
 
-[AraPatvakanian.github.io](https://github.com/AraPatvakanian/AraPatvakanian.github.io) | Copyright © 2023–Present [Ara Patvakanian](https://AraPatvakanian.GitHub.io)
-
+[AraPatvakanian.github.io](https://github.com/AraPatvakanian/AraPatvakanian.github.io) | Copyright © 2023–Present [Ara Patvakanian](https://AraPatvakanian.GitHub.io) \
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND)
 
 The full text of the license can be found at the following link: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.
 
-The CC BY NC ND 4.0 license is only for the website and all of its contents as created by Ara Patvakanian for personal use. Below is the MIT License for the Wowchemy Academic template that was used. The MIT License only applies to the template, whereas all personal information and website content is the sole property of Ara Patvakanian.
+The CC BY NC ND 4.0 license is only for the website and all of its contents as created by Ara Patvakanian for personal use. Below is the MIT License for the Hugo Blox (Wowchemy) Academic template that was used. The MIT License only applies to the template, whereas all personal information and website content is the sole property of Ara Patvakanian.
 
 –––
 
