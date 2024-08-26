@@ -14,7 +14,7 @@ last_name: Patvakanian
 superuser: true
 
 # Role/position/tagline
-role: Research at Boston Fed
+role: Economic Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
