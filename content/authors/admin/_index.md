@@ -14,7 +14,7 @@ last_name: Patvakanian
 superuser: true
 
 # Role/position/tagline
-role: Economic Research Assistant
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -118,7 +118,7 @@ sections:
           icon_pack: emoji
         - name: English
           # description: Native
-          icon: ":us: / :england:"
+          icon: ":us:"
           icon_pack: emoji
         - name: Spanish
           # description: Fluent
