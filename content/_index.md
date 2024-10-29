@@ -59,7 +59,7 @@ sections:
           description:
           icon: python
           icon_pack: fab
-        - name: Stata
+        - name: Stata & Mata
           description:
           icon: s
           icon_pack: fab
