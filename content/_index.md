@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2023-07-19
+date: 2025-01-25
 type: landing
 
 sections:
@@ -71,7 +71,7 @@ sections:
           description:
           icon: github
           icon_pack: fab
-        - name: Command Line (Unix)
+        - name: Shell Scripting
           description:
           icon: terminal
           icon_pack: fas
@@ -79,7 +79,7 @@ sections:
           description:
           icon: markdown
           icon_pack: fab
-        - name: "${\\TeX}$ & ${\\LaTeX}$"
+        - name: ${\\LaTeX}$ # "${\\TeX}$ & ${\\LaTeX}$"
           description:
           icon: "${\\small\\LaTeX}$"
           icon_pack: emoji
@@ -95,18 +95,18 @@ sections:
         #   description:
         #   icon: wordpress
         #   icon_pack: fab
-        - name: Microsoft Office
-          description:
-          icon: "microsoft"
-          icon_pack: fab
-        - name: Google Workspace
-          description:
-          icon: "google"
-          icon_pack: fab
-        - name: Apple iWork
-          description:
-          icon: apple
-          icon_pack: fab
+        # - name: Microsoft Office
+        #   description:
+        #   icon: "microsoft"
+        #   icon_pack: fab
+        # - name: Google Workspace
+        #   description:
+        #   icon: "google"
+        #   icon_pack: fab
+        # - name: Apple iWork
+        #   description:
+        #   icon: apple
+        #   icon_pack: fab
   - block: features
     id: languages
     content:
@@ -125,7 +125,7 @@ sections:
           icon: ":es:"
           icon_pack: emoji
         - name: French
-          # description: Learning
+          # description: Conversational
           icon: ":fr:"
           icon_pack: emoji
   - block: accomplishments
@@ -142,6 +142,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: <font size=5>Spring 2025</font>
+          certificate_url: 
+          date_start: '2025-01-20'
+          date_end: '2025-03-13'
+          description: |2-
+            <style>
+              li {
+                font-size: 14px;
+                line-height: 1.6;
+              }
+            </style>
+            - PHIL 6720 – Advanced Topics in Monetary Economics with Heterogeneous Agents &nbsp; <span style="color:red"> **Graduate** </span>
+          organization: Harvard University
+          organization_url: https://www.harvard.edu/
+          url: ''
         - title: <font size=5>Spring 2024</font>
           certificate_url: 
           date_start: '2024-01-18'
@@ -150,6 +165,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - STAT 4420 – Bayesian Data Analysis
@@ -160,7 +176,7 @@ sections:
             - PSCI 4996 – Topics in Political Theory: Politics & Ethics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - LANG 0100 – Armenian Linguistics
 
-            <font size=2>**Graduation Flagbearer for Mathematical Economics, Phi Beta Kappa,<br>Distinction in Mathematical Economics, & Summa Cum Laude**</font>
+            <font size="2" style="line-height: 1;">**Graduation Flagbearer for Mathematical Economics, Distinction in Mathematical Economics, Phi Beta Kappa, <br> & Summa Cum Laude**</font>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
@@ -172,6 +188,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - STAT 5150 – Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; <span style="color:red"> **Graduate** </span>
@@ -191,6 +208,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - MATH 3610 – Real Analysis II
@@ -199,7 +217,7 @@ sections:
             - ECON 4560 – History of Economic Thought
             - PHIL 1571 – Repairing the Planet: Tools for the Climate Emergency
 
-            <font size=2>**Dean's List, 2022–2023**</font>
+            <font size="2" style="line-height: 1;">**Dean's List, 2022–2023**</font>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
@@ -211,6 +229,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - MATH 3600 – Real Analysis I
@@ -229,6 +248,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - MATH 312 – Linear Algebra
@@ -238,7 +258,7 @@ sections:
             - PSCI 380 – Race, Ethnicity, & American Constitutional Law &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; &#8239; &#8239; <span style="color:#007AFF"> **Seminar** </span>
             - PSCI 258 – International Human Rights
 
-            <font size=2>**Dean's List, 2021–2022**</font>
+            <font size="2" style="line-height: 1;">**Dean's List, 2021–2022**</font>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
@@ -250,6 +270,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - ECON 104 – Econometric Methods & Models
@@ -276,7 +297,7 @@ sections:
             - PSCI 181 – Modern Political Thought
             - EALC 050 – Anime to Zen Aesthetics
             
-            <font size=2>*The Dean's List was suspended university-wide for the 2020–2021 academic year.*</font>
+            <font size="2" style="line-height: 1;">*The Dean's List was suspended university-wide for the 2020–2021 academic year.*</font>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
@@ -288,6 +309,7 @@ sections:
             <style>
               li {
                 font-size: 14px;
+                line-height: 1.2;
               }
             </style>
             - MATH 114 – Calculus III (Multivariate Calculus)
@@ -297,66 +319,69 @@ sections:
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
-        - title: <font size=5>2016–2020</font>
-          certificate_url: 
-          date_start: '2016-06-01'
-          date_end: '2020-06-16'
-          description: |2-
-            <style>
-              li {
-                font-size: 14px;
-              }
-            </style>
-            - A.P. Calculus AB (5)
-            - A.P. Calculus BC (5)
-            - A.P. Macroeconomics (5)
-            - A.P. European History (5)
-            - A.P. United States History (5)
-            - A.P. Human Geography (5)
-            - A.P. English Language & Composition (5)
-            - A.P. English Literature & Composition (5)
-            - A.P. Spanish Language & Culture (5)
-            - A.P. Spanish Literature & Culture (5)
-            - A.P. Psychology (5)
-            - A.P. Chemistry (5)
-            - A.P. Physics 1 (5)
-            - Honors Aviation Ground School
+        # - title: <font size=5>2016–2020</font>
+        #   certificate_url: 
+        #   date_start: '2016-06-01'
+        #   date_end: '2020-06-16'
+        #   description: |2-
+        #     <style>
+        #       li {
+        #         font-size: 14px;
+        #         line-height: 1.2;
+        #       }
+        #     </style>
+        #     - A.P. Calculus AB (5)
+        #     - A.P. Calculus BC (5)
+        #     - A.P. Macroeconomics (5)
+        #     - A.P. European History (5)
+        #     - A.P. United States History (5)
+        #     - A.P. Human Geography (5)
+        #     - A.P. English Language & Composition (5)
+        #     - A.P. English Literature & Composition (5)
+        #     - A.P. Spanish Language & Culture (5)
+        #     - A.P. Spanish Literature & Culture (5)
+        #     - A.P. Psychology (5)
+        #     - A.P. Chemistry (5)
+        #     - A.P. Physics 1 (5)
+        #     - Honors Aviation Ground School
             
-            <font size=2> (Number = Advanced Placement Exam Score) </font>
-          organization: Crescenta Valley High School
-          organization_url: https://cvhs.gusd.net/
-          url: ''
-        - title: <font size=5>Spring 2018</font>
-          certificate_url: 
-          date_start: '2018-01-01'
-          date_end: '2020-05-31'
-          description: |2-
-            <style>
-              li {
-                font-size: 14px;
-              }
-            </style>
-            - Lifeguarding & Water Safety
-          organization: Herbert Hoover High School
-          organization_url: https://hooverhs.gusd.net/
-          url: ''
-        - title: <font size=5>2018–2020</font>
-          certificate_url: 
-          date_start: '2018-01-01'
-          date_end: '2020-06-16'
-          description: |2-
-            <style>
-              li {
-                font-size: 14px;
-              }
-            </style>
-            Dual Enrollment Student
-            - MATH 110 – Accelerated Precalculus
-            - HIT 197 – Disease Processes
+        #     <font size=2> (Number = Advanced Placement Exam Score) </font>
+        #   organization: Crescenta Valley High School
+        #   organization_url: https://cvhs.gusd.net/
+        #   url: ''
+        # - title: <font size=5>Spring 2018</font>
+        #   certificate_url: 
+        #   date_start: '2018-01-01'
+        #   date_end: '2020-05-31'
+        #   description: |2-
+        #     <style>
+        #       li {
+        #         font-size: 14px;
+        #         line-height: 1.2;
+        #       }
+        #     </style>
+        #     - Lifeguarding & Water Safety
+        #   organization: Herbert Hoover High School
+        #   organization_url: https://hooverhs.gusd.net/
+        #   url: ''
+        # - title: <font size=5>2018–2020</font>
+        #   certificate_url: 
+        #   date_start: '2018-01-01'
+        #   date_end: '2020-06-16'
+        #   description: |2-
+        #     <style>
+        #       li {
+        #         font-size: 14px;
+        #         line-height: 1.2;
+        #       }
+        #     </style>
+        #     Dual Enrollment Student
+        #     - MATH 110 – Accelerated Precalculus
+        #     - HIT 197 – Disease Processes
             
-          organization: Glendale Community College
-          organization_url: https://www.glendale.edu/
-          url: ''
+        #   organization: Glendale Community College
+        #   organization_url: https://www.glendale.edu/
+        #   url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -510,8 +535,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       # email: '[arap15 \<at\> sas \<dot\> upenn \<dot\> edu](mailto:arap15@sas.upenn.edu)'
       # email: '<span style="font-size: 16px;">[arap15\<at\>sas\<dot\>upenn\<dot\>edu](mailto:arap15@sas.upenn.edu)</span>'
-      email: '<span style="font-size: 16px;"> arap15@sas.upenn.edu </span>'
-      city: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, Massachusetts, USA</span>'
+      # email: '<span style="font-size: 16px;"> arap15@sas.upenn.edu </span>'
+      # city: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, Massachusetts, USA</span>'
+      email: 'arap15@sas.upenn.edu'
+      city: 'Boston, Massachusetts, USA'
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ara Patvakanian</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://AraPatvakanian.GitHub.io/</link>
+      <atom:link href="https://AraPatvakanian.GitHub.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ara Patvakanian</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/sharing.jpeg</url>
+      <url>https://AraPatvakanian.GitHub.io/media/sharing.jpeg</url>
       <title>Ara Patvakanian</title>
-      <link>http://localhost:1313/</link>
+      <link>https://AraPatvakanian.GitHub.io/</link>
     </image>
     
   </channel>
