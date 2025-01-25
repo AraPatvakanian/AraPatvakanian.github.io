@@ -153,7 +153,7 @@ sections:
                 line-height: 1.6;
               }
             </style>
-            - PHIL 6720 – Advanced Topics in Monetary Economics with Heterogeneous Agents &nbsp; <span style="color:red"> **Graduate** </span>
+            - ECON 2411 – Advanced Topics in Monetary Economics with Heterogeneous Agents &nbsp; <span style="color:red"> **Graduate** </span>
           organization: Harvard University
           organization_url: https://www.harvard.edu/
           url: ''
