@@ -102,10 +102,10 @@ highlight_name: true
 ---
 
 Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. My current interests center on macroeconomic modeling and time series econometrics. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and am currently a graduate visiting student at Harvard University. I work at the Research Department of the Federal Reserve Bank of Boston as a research assistant in the Macroeconomics and Monetary Economics group and plan on pursuing a Ph.D. in economics afterwards. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) in April 2024. 
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
 
 In my free time, I enjoy playing the guitar and the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
 
 All expressed views are my own and do not necessarily reflect those of the Federal Reserve Bank of Boston or the Federal Reserve System.
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->

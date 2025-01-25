@@ -165,7 +165,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - STAT 4420 – Bayesian Data Analysis
@@ -188,7 +187,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - STAT 5150 – Advanced Statistical Inference &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; <span style="color:red"> **Graduate** </span>
@@ -208,7 +206,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - MATH 3610 – Real Analysis II
@@ -229,7 +226,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - MATH 3600 – Real Analysis I
@@ -248,7 +244,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - MATH 312 – Linear Algebra
@@ -270,7 +265,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - ECON 104 – Econometric Methods & Models
@@ -309,7 +303,6 @@ sections:
             <style>
               li {
                 font-size: 14px;
-                line-height: 1.2;
               }
             </style>
             - MATH 114 – Calculus III (Multivariate Calculus)
@@ -327,7 +320,6 @@ sections:
         #     <style>
         #       li {
         #         font-size: 14px;
-        #         line-height: 1.2;
         #       }
         #     </style>
         #     - A.P. Calculus AB (5)
@@ -357,7 +349,6 @@ sections:
         #     <style>
         #       li {
         #         font-size: 14px;
-        #         line-height: 1.2;
         #       }
         #     </style>
         #     - Lifeguarding & Water Safety
@@ -372,7 +363,6 @@ sections:
         #     <style>
         #       li {
         #         font-size: 14px;
-        #         line-height: 1.2;
         #       }
         #     </style>
         #     Dual Enrollment Student
