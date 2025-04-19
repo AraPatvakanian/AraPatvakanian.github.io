@@ -145,7 +145,7 @@ sections:
         - title: <font size=5>Spring 2025</font>
           certificate_url: 
           date_start: '2025-01-20'
-          date_end: '2025-03-13'
+          date_end: '2025-04-30'
           description: |2-
             <style>
               li {
