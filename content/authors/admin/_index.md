@@ -14,7 +14,7 @@ last_name: Patvakanian
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Senior Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,12 +29,14 @@ bio:
 # Interests to show in About widget
 interests:
   - Macroeconomics
+  - International Economics
+  - Macro-Finance
   - Time Series Econometrics
 
 # Education to show in About widget
 education:
   courses:
-    - course: Graduate Visiting Student, Economics
+    - course: Visiting Graduate Student, Economics
       institution: '[Harvard University](https://www.harvard.edu/) | 2025'
       year:
     - course: B.A., Mathematical Economics & Political Science
@@ -52,11 +54,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:arap15@sas.upenn.edu'
-  #   display:
-  #     header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -68,6 +65,11 @@ social:
     link: "/uploads/AraPatvakanianResume.pdf"
     display:
       header: true
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:arap15@upenn.edu'
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/AraPatvakanian
@@ -76,20 +78,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/AraPatvakanian/
-  # - icon: feather
-  #   icon_pack: fas
-  #   link: https://www.duolingo.com/profile/AraPatvakanian
-  - icon: feather
-    icon_pack: fas
-    link: https://www.duolingo.com/profile/AraPatvakanian
-  - icon: twitter
+  - icon: duolingo
     icon_pack: fab
-    link: https://twitter.com/AraPatvakanian
-    # label: Twitter
-  # - icon: x-twitter
+    link: https://www.duolingo.com/profile/AraPatvakanian
+  # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/AraPatvakanian
-  #   # label: Twitter
+  #   label: Twitter
   # - icon: spotify
   #   icon_pack: fab
   #   link: 
@@ -101,7 +96,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. My current interests center on macroeconomic modeling and time series econometrics. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and am currently a graduate visiting student at Harvard University. I work at the Research Department of the Federal Reserve Bank of Boston as a research assistant in the Macroeconomics and Monetary Economics group and plan on pursuing a Ph.D. in economics afterwards. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) in April 2024. 
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. I am a senior research associate in the Macroeconomics and Monetary Economics group at the Research Department of the Federal Reserve Bank of Boston. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and was a visiting graduate student at Harvard University. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) in April 2024. 
 <!-- {style="text-align: justify;"} -->
 
 In my free time, I enjoy playing the guitar and the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.

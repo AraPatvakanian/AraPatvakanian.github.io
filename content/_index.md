@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2025-01-25
+date: 2025-10-11
 type: landing
 
 sections:
@@ -516,55 +516,55 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      # text: |-
-      # Contact (add or remove contact options as necessary)
-      # email: '[arap15 \<at\> sas \<dot\> upenn \<dot\> edu](mailto:arap15@sas.upenn.edu)'
-      # email: '<span style="font-size: 16px;">[arap15\<at\>sas\<dot\>upenn\<dot\>edu](mailto:arap15@sas.upenn.edu)</span>'
-      # email: '<span style="font-size: 16px;"> arap15@sas.upenn.edu </span>'
-      # city: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, Massachusetts, USA</span>'
-      email: 'arap15@sas.upenn.edu'
-      city: 'Boston, Massachusetts, USA'
-      # phone: 888 888 88 88
-      # appointment_url: 'https://calendly.com'
-      # address:
-      #   street: 
-      #   city: 
-      #   region: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, MA, USA</span>'
-      #   postcode: 
-      #   country: United States
-      #   country_code: US
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: Twitter
-      #     link: 'https://twitter.com/AraPatvakanian'
-      #   - icon: skype
-      #     icon_pack: fab
-      #     name: Skype
-      #     link: ''
-      #   - icon: video
-      #     icon_pack: fas
-      #     name: Zoom Me
-      #     link: ''
-      # Automatically link email and phone or display as text?
-      autolink: false
-    #   # Email form provider
-    #   form:
-    #     provider: netlify
-    #     formspree:
-    #       id:
-    #     netlify:
-    #       # Enable CAPTCHA challenge to reduce spam?
-    #       captcha: false
-    design:
-      columns: '2'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     # text: |-
+  #     # Contact (add or remove contact options as necessary)
+  #     # email: '[arap15 \<at\> sas \<dot\> upenn \<dot\> edu](mailto:arap15@sas.upenn.edu)'
+  #     # email: '<span style="font-size: 16px;">[arap15\<at\>sas\<dot\>upenn\<dot\>edu](mailto:arap15@sas.upenn.edu)</span>'
+  #     # email: '<span style="font-size: 16px;"> arap15@sas.upenn.edu </span>'
+  #     # city: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, Massachusetts, USA</span>'
+  #     email: 'arap15@upenn.edu'
+  #     city: 'Boston, Massachusetts, USA'
+  #     # phone: 888 888 88 88
+  #     # appointment_url: 'https://calendly.com'
+  #     # address:
+  #     #   street: 
+  #     #   city: 
+  #     #   region: '<span style="font-size: 16px;">Los Angeles, California, USA | Boston, MA, USA</span>'
+  #     #   postcode: 
+  #     #   country: United States
+  #     #   country_code: US
+  #     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #     # office_hours:
+  #     #   - 'Monday 10:00 to 13:00'
+  #     #   - 'Wednesday 09:00 to 10:00'
+  #     # contact_links:
+  #     #   - icon: twitter
+  #     #     icon_pack: fab
+  #     #     name: Twitter
+  #     #     link: 'https://twitter.com/AraPatvakanian'
+  #     #   - icon: skype
+  #     #     icon_pack: fab
+  #     #     name: Skype
+  #     #     link: ''
+  #     #   - icon: video
+  #     #     icon_pack: fas
+  #     #     name: Zoom Me
+  #     #     link: ''
+  #     # Automatically link email and phone or display as text?
+  #     autolink: false
+  #   #   # Email form provider
+  #   #   form:
+  #   #     provider: netlify
+  #   #     formspree:
+  #   #       id:
+  #   #     netlify:
+  #   #       # Enable CAPTCHA challenge to reduce spam?
+  #   #       captcha: false
+  #   design:
+  #     columns: '2'
 ---
