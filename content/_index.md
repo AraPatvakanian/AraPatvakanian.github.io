@@ -62,7 +62,7 @@ sections:
         - name: Stata & Mata
           description:
           icon: s
-          icon_pack: fab
+          icon_pack: fas
         - name: MATLAB
           description:
           icon: m
