@@ -3,7 +3,7 @@
 [Ara Patvakanian](https://AraPatvakanian.GitHub.io) \
 2023.08.09
 
-This is the GitHub repository of Ara Patvakanian's personal website.
+This is the GitHub repository for Ara Patvakanian's personal website.
 
 The license for the AraPatvakanian.github.io GitHub repository can be found at LICENSE.md.
 
