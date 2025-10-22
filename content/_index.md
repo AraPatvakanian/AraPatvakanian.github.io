@@ -69,7 +69,7 @@ sections:
           icon_pack: fas
         - name: Git
           description:
-          icon: github
+          icon: git-alt
           icon_pack: fab
         - name: Shell Scripting
           description:
@@ -81,8 +81,8 @@ sections:
           icon_pack: fab
         - name: ${\\LaTeX}$ # "${\\TeX}$ & ${\\LaTeX}$"
           description:
-          icon: "${\\small\\LaTeX}$"
-          icon_pack: emoji
+          icon: tex # "${\\small\\LaTeX}$"
+          icon_pack: fab # emoji
         - name: Overleaf
           description:
           icon: overleaf
