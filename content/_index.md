@@ -47,9 +47,9 @@ sections:
   #   design:
   #     columns: '2'
   - block: features
-    id: technical-and-programming
+    id: technical
     content:
-      title: Technical & Programming
+      title: Technical
       items:
         - name: R
           description:

@@ -10,8 +10,8 @@ main:
   # - name: Experience
   #   url: '#experience'
   #   weight: 20
-  - name: Technical & Programming
-    url: '#technical-and-programming'
+  - name: Technical
+    url: '#technical'
     weight: 30
   - name: Languages
     url: '#languages'

@@ -96,10 +96,10 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. I am a senior research associate in the Macroeconomics and Monetary Economics group at the Research Department of the Federal Reserve Bank of Boston. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and was a visiting graduate student at Harvard University. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) in April 2024. 
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. I am a senior research associate in the Macroeconomics and Monetary Economics group at the Research Department of the Federal Reserve Bank of Boston. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and was a visiting graduate student at Harvard University. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian). 
 <!-- {style="text-align: justify;"} -->
 
-In my free time, I enjoy playing the guitar and the ukelele. I am currently learning French. Last, I love reading philosophy and political theory, and my favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
+In my free time, I enjoy playing music, learning languages, and reading literature. My favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
 <!-- {style="text-align: justify;"} -->
 
 All expressed views are my own and do not necessarily reflect those of the Federal Reserve Bank of Boston or the Federal Reserve System.
