@@ -93,7 +93,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. I am a senior research associate in the Macroeconomics and Monetary Economics group at the Research Department of the Federal Reserve Bank of Boston. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and was a visiting graduate student at Harvard University. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian). 

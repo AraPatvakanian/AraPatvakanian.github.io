@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
   theme_day: aptheme # "minimal" = Default
   theme_night: aptheme # "minimal" = Default
@@ -12,7 +11,6 @@ appearance:
   font_size: M
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
@@ -29,8 +27,7 @@ marketing:
     google: 'xoybPssYr1WW5yah6HQOwU3hvNjiFJdtD93WjfzvSCk'
     baidu: ''
 
-# Site header
-
+# Site Header
 header:
   navbar:
     enable: true
@@ -41,8 +38,7 @@ header:
     show_search: false # Change to true for search bar
     highlight_active_link: true
 
-# Site footer
-
+# Site Footer
 footer:
   copyright:
     notice: '© 2023–{year} Ara Patvakanian | Website License {license}'
@@ -53,11 +49,14 @@ footer:
       allow_commercial: false
 
 # Localization
-
+# https://gohugo.io/functions/time/format/
 locale:
-  date_format: 'January 2, 2006'
+  date_format: '2006.01.02' # 'January 2, 2006' 
   time_format: '3:04 PM'
   address_format: en-us
+
+  timezone: 'America/Los_Angeles'  # Recommended: Handles DST automatically
+  offset: '-08:00'
 
 # Site features
 
