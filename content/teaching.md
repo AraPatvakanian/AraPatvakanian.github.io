@@ -14,7 +14,7 @@ All errors are my own. If you find an error or have a comment or suggestion, ple
 <br>
 
 ## __Modules__
-1. [__TimeSeriesEconometrics__](https://github.com/AraPatvakanian/APTeachingLibrary/blob/main/TimeSeriesEconometrics/AP_TimeSeriesEconometrics.pdf) ([Slides](https://github.com/AraPatvakanian/APTeachingLibrary/blob/main/TimeSeriesEconometrics/AP_TimeSeriesEconometrics.pdf))
+1. [__TimeSeriesEconometrics__](https://github.com/AraPatvakanian/APTeachingLibrary/tree/main/TimeSeriesEconometrics) ([Slides](https://github.com/AraPatvakanian/APTeachingLibrary/blob/main/TimeSeriesEconometrics/AP_TimeSeriesEconometrics.pdf))
     - Introduction to Time Series
     - Autoregressive (AR) Processes
     - Local Projections (LPs)
