@@ -56,7 +56,7 @@
       {{ $align_menu := site.Params.header.navbar.align | default "l" }}
       <div class="navbar-collapse main-menu-item collapse {{ if eq $align_menu "c" }}justify-content-center{{ else if eq $align_menu "r" }}justify-content-end{{else}}justify-content-start{{ end }}" id="navbar-content">
 
-        <!-- Left Nav Bar -->
+        <!-- Left Navigation Menu -->
         <ul class="navbar-nav d-md-inline-flex">
           {{ range site.Menus.main }}
 
@@ -118,7 +118,7 @@
           {{ end }}
           {{ end }}
 
-        <!-- Right Nav Bar -->
+        <!-- Right Navigation Menu -->
         {{ if site.Menus.main_right | and (eq $align_menu "l") }}
         </ul>
         <ul class="navbar-nav ml-md-auto">
@@ -143,12 +143,7 @@
           {{ end }} -->
 
           <!-- main_right Bold & Color on Active -->
-          {{ range site.Menus.main_right }}
-            <li class="nav-item d-md-none">
-              <a class="nav-link" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
-                {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
-              </a>
-            </li>
+        {{ range site.Menus.main_right }}
 
           {{/* Set target for link. */}}
           {{ $.Scratch.Set "target" "" }}
@@ -180,7 +175,7 @@
             {{ end }}
           {{ end }}
 
-          <li class="nav-item d-none d-lg-inline-flex">
+          <li class="nav-item d-flex d-lg-inline-flex">
             <a class="nav-link {{if and $highlight_active_link $is_link_in_current_path}} active{{end}}" 
               href="{{ .URL | relLangURL }}"{{ if and $is_same_page $current_page.IsHome }} data-target="{{ $hash }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
               {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
