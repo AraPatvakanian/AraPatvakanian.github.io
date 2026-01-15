@@ -1,0 +1,15 @@
+/* Navigation Bar */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030;
+}
+
+.page-body:not(.page-home) {
+  padding-top: 50px;
+}
+
+.page-home .page-body {
+  padding-top: 70px;
+}
