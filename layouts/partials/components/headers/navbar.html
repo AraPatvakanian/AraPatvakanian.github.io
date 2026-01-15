@@ -118,11 +118,12 @@
           {{ end }}
           {{ end }}
 
+        <!-- Right Nav Bar -->
         {{ if site.Menus.main_right | and (eq $align_menu "l") }}
         </ul>
         <ul class="navbar-nav ml-md-auto">
         {{ end }}
-
+        
           <!-- {{ range site.Menus.main_right }}
 
           {{/* Set target for link. */}}
@@ -141,8 +142,13 @@
 
           {{ end }} -->
 
-          <!-- main_right Bold/Color on Activate -->
+          <!-- main_right Bold & Color on Active -->
           {{ range site.Menus.main_right }}
+            <li class="nav-item d-md-none">
+              <a class="nav-link" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+                {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
+              </a>
+            </li>
 
           {{/* Set target for link. */}}
           {{ $.Scratch.Set "target" "" }}
