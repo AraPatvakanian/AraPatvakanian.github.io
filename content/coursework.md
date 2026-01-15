@@ -77,8 +77,8 @@ sections:
                 <li>ECON 6110 – Game Theory & Applications &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; <span style="color:red"> <strong>Graduate</strong> </span>
                 <li>ECON 4560 – History of Economic Thought
                 <li>PHIL 1571 – Repairing the Planet: Tools for the Climate Emergency
-            <font size="2" style="line-height: 1;"><strong>Dean's List, 2022–2023</strong></font>
             </ul>
+            <font size="2" style="line-height: 1;"><strong>Dean's List, 2022–2023</strong></font>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
           url: ''
@@ -89,7 +89,7 @@ sections:
           description: |2-
             <ul class="coursework-list">
                 <li>MATH 3600 – Real Analysis I</li>
-                <li>ECON 4330 – Econometric Machine Learning Methods & Models</li>
+                <li>ECON 4330 – Econometric Machine Learning</li>
                 <li>PSCI 1402 – International Political Economy</li>
                 <li>EESC 1500 – Paleontology</li>
                 <li>EESC 1000 – Introduction to Geology</li>
@@ -124,7 +124,7 @@ sections:
                 <li>ECON 102 – Intermediate Macroeconomics</li>
                 <li>PSCI 320 – Who Gets Elected & Why?</li>
                 <li>PSCI 183 – American Political Thought</li>
-                <li>HIST 143 – Foundations of European Thought (From Rome to the Renaissance)</li>
+                <li>HIST 143 – Foundations of European Thought</li>
             </ul>
           organization: University of Pennsylvania
           organization_url: https://www.upenn.edu/
@@ -135,7 +135,7 @@ sections:
           date_end: '2021-05-11'
           description: |2-
             <ul class="coursework-list">
-                <li>MATH 240 – Calculus IV (Linear Algebra & Differential Equations)
+                <li>MATH 240 – Linear Algebra & Differential Equations
                 <li>ECON 103 – Statistics for Economists
                 <li>ECON 101 – Intermediate Microeconomics
                 <li>PSCI 181 – Modern Political Thought
