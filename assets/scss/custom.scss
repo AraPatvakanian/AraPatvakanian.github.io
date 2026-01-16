@@ -41,7 +41,17 @@
   text-decoration: none;
   background-color: #2c2f33; }
 
-  /* Coursework */
+/* Footer */
+footer .powered-by {
+  margin: 0;
+}
+
+/* Moves Footer to Bottom of Page */
+html, body {
+  height: 100%;
+}
+
+/* Coursework */
 .coursework-list {
   list-style-type: none;
   padding-left: 0;

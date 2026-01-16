@@ -35,7 +35,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false # Change to true for search bar
+    show_search: false
     highlight_active_link: true
 
 # Site Footer
@@ -58,8 +58,7 @@ locale:
   timezone: 'America/Los_Angeles'  # Recommended: Handles DST automatically
   offset: '-08:00'
 
-# Site features
-
+# Site Features
 features:
   syntax_highlighter:
     theme_light: github-light
@@ -100,7 +99,6 @@ features:
     zoom: 15
 
 # Extensions
-
 extensions:
   cms:
     branch: main
@@ -109,7 +107,11 @@ extensions:
     enable: true
 
 # Security
-
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: false
+
+# Sponsor
+i_am_a_sponsor: false
+power_ups:
+  hide_published_with: false
