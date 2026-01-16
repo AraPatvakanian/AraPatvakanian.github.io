@@ -36,6 +36,7 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, headers, redirects] # Include "WebAppManifest,"" for Progressive Web Apps (PWA)
   section: [HTML, RSS]
+  taxonomy: []
 imaging:
   resampleFilter: Lanczos
   quality: 75
