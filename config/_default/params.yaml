@@ -37,6 +37,7 @@ header:
     show_day_night: true
     show_search: false
     highlight_active_link: true
+  on_scroll: "sticky"
 
 # Site Footer
 footer:
