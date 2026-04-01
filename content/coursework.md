@@ -105,7 +105,7 @@ sections:
                     </div>
                   </li>
                   <li class="course">
-                    ECON 4900 & 4910 – Economics Thesis Seminar I
+                    ECON 4900 – Economics Thesis Seminar I
                     <div class="labels">
                       <span class="label seminar">Seminar</span>
                     </div>
@@ -183,7 +183,7 @@ sections:
                     </div>
                   </li>
                   <li class="course">
-                    PHIL 1571 – Repairing the Planet: Tools for the Climate Emergency
+                    PHIL 1571 – Repairing the Planet
                   </li>
                   <li class="course">
                     PHIL 001 – Introduction to Philosophy
