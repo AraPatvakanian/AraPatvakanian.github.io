@@ -165,6 +165,24 @@ sections:
                     </div>
                   </li>
                   <li class="course">
+                    PHIL 2851 – Philosophy of Economics
+                    <div class="labels">
+                      <span class="label audited">Audited</span>
+                    </div>
+                  </li>
+                  <li class="course">
+                    PHIL 2560 – Ethics & Education
+                    <div class="labels">
+                      <span class="label seminar">Seminar</span>
+                    </div>
+                  </li>
+                  <li class="course">
+                    PHIL 2431 – Contemporary Political Thought
+                    <div class="labels">
+                      <span class="label seminar">Seminar</span>
+                    </div>
+                  </li>
+                  <li class="course">
                     PHIL 1571 – Repairing the Planet: Tools for the Climate Emergency
                   </li>
                   <li class="course">
@@ -204,24 +222,6 @@ sections:
                   </li>
                   <li class="course">
                     PSCI 181 – Modern Political Thought
-                  </li>
-                  <li class="course">
-                    PHIL 2851 – Philosophy of Economics
-                    <div class="labels">
-                      <span class="label audited">Audited</span>
-                    </div>
-                  </li>
-                  <li class="course">
-                    PHIL 2560 – Ethics & Education
-                    <div class="labels">
-                      <span class="label seminar">Seminar</span>
-                    </div>
-                  </li>
-                  <li class="course">
-                    PHIL 2431 – Contemporary Political Thought
-                    <div class="labels">
-                      <span class="label seminar">Seminar</span>
-                    </div>
                   </li>
                   <li class="course">
                     PSCI 1402 – International Political Economy
