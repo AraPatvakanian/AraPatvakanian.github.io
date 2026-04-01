@@ -53,21 +53,81 @@ html, body {
   height: 100%;
 }
 
-/* Coursework */
-.coursework-list {
+/* Coursework Block */
+.coursework-subtext1, 
+.coursework-subtext2 {
+  display: block;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.1;
+}
+.coursework-subtext2 {
+  font-style: italic;
+}
+
+.coursework-list,
+.coursework-list ul {
   list-style-type: none;
   padding-left: 0;
+  margin-left: 0;
 }
 
-.coursework-list li {
-  font-size: 14px;
-  line-height: 1.6;
+.coursework-list > li.subject {
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.coursework-list li.course {
+  display: flex;
+  align-items: flex-start;
   position: relative;
-  padding-left: 1em;
+  padding-left: 0em;
+  width: 100%;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.15;
 }
 
-.coursework-list li::before {
-  content: "–";
+.coursework-list li.course::before {
   position: absolute;
-  left: 0;
+  // left: 0;
+  // content: "–";
+}
+
+.coursework-list li.course .labels {
+  display: flex;
+  flex-shrink: 0;
+  margin-left: auto;
+  margin-right: 2em;
+  gap: 0.5em;
+}
+
+.label {
+  font-weight: bold;
+  white-space: nowrap; 
+}
+
+.label.graduate { color: #c90a0a; }
+.label.seminar { color: #007AFF; }
+.label.audited { color: #f58936; }
+
+/* Cards in Accomplishments & Coursework Widgets */
+.card {
+  box-shadow: none !important;
+}
+
+.card:hover {
+  box-shadow: none !important;
+  /* box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2); */
+}
+
+.dark .card {
+  background: #212124;
+  box-shadow: none !important;
+}
+
+.dark .card:hover {
+  box-shadow: none !important;
+  /* box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.05); */
 }
