@@ -25,7 +25,7 @@ sections:
           organization: 'Harvard University'
           organization_url: 'https://www.harvard.edu/'
           extra_text: ' | 2025'
-          subtext1: 'Visiting Graduate Student, Department of Economics, GSAS'
+          subtext1: 'Visiting Graduate Student, Department of Economics'
           subtext2: ''
           date_start: '2025-01-20'
           date_end: '2026-05-20'
