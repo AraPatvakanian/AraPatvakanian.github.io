@@ -126,7 +126,7 @@ sections:
                     ECON 4330 – Econometric Machine Learning
                   </li>
                   <li class="course">
-                    ECON 222 – Microeconometrics
+                    ECON 222 – Advanced Econometric Techniques & Applications
                   </li>
                   <li class="course">
                     ECON 4560 – History of Economic Thought
