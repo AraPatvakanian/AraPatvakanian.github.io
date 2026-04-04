@@ -25,7 +25,7 @@ sections:
           organization: 'Harvard University'
           organization_url: 'https://www.harvard.edu/'
           extra_text: ' | 2025'
-          subtext1: 'Visiting Graduate Student, Department of Economics'
+          subtext1: 'Visiting Graduate Student, Department of Economicsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ'
           subtext2: ''
           date_start: '2025-01-20'
           date_end: '2026-05-20'
@@ -49,8 +49,8 @@ sections:
           organization: 'University of Pennsylvania'
           organization_url: 'https://www.upenn.edu/'
           extra_text: ' | 2024'
-          subtext1: B.A., Mathematical Economics & Political Science (Statistics, Philosophy, & International Development)
-          subtext2: Graduation Flagbearer for Mathematical Economics, Distinction in Math. Econ., Phi Beta Kappa, & Summa Cum Laude
+          subtext1: 'B.A., Mathematical Economics & Political Science (Statistics, Philosophy, & International Development)'
+          subtext2: 'Graduation Flagbearer for Mathematical Economics, Distinction in Math. Econ., Phi Beta Kappa, & Summa Cum Laude'
           date_start: '2020-08-24'
           date_end: '2024-05-20'
           description: |2-
