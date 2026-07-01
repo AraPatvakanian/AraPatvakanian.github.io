@@ -60,8 +60,9 @@
         {{ end }}
       </div>
 
-      <ul class="network-icon" aria-hidden="true">
-        {{ range $person.social }}
+  <ul class="network-icon" aria-hidden="true">
+    {{ range $person.social }}
+      {{ if ne (index . "display" "profile") false }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
         {{ if in (slice "fab" "fas" "far" "fal") $pack }}
@@ -80,8 +81,9 @@
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
-        {{ end }}
-      </ul>
+      {{ end }}
+    {{ end }}
+  </ul>
 
     </div>
   </div>

@@ -57,9 +57,6 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -67,35 +64,51 @@ social:
     icon_pack: ai
     link: "/uploads/AraPatvakanianResume.pdf"
     display:
+      profile: true
       header: true
   - icon: envelope
     icon_pack: fas
     link: 'mailto:arap15@upenn.edu'
     display:
+      profile: true
       header: true
-  # - icon: r
-  #   icon_pack: fas
-  #   link: 'https://ideas.repec.org/f/ppa1672.html'
-  #   display:
-  #     header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/AraPatvakanian
-    # display:
-    #   header: true
+    display:
+      profile: true
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/AraPatvakanian/
+    display:
+      profile: true
+      header: false
+  # - icon: google-scholar
+  #   icon_pack: fab
+  #   link: 'https://scholar.google.com/citations?user=QtuYikwAAAAJ&hl=en'
+  #   display:
+  #     profile: true
+  #     header: false
+  # - icon: lightbulb
+  #   icon_pack: fas
+  #   link: 'https://ideas.repec.org/f/ppa1672.html'
+  #   display:
+  #     profile: true
+  #     header: false
   - icon: duolingo
     icon_pack: fab
     link: https://www.duolingo.com/profile/AraPatvakanian
+    display:
+      profile: true
+      header: false
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/AraPatvakanian
   #   label: Twitter
-  # - icon: spotify
-  #   icon_pack: fab
-  #   link: 
+  #    display:
+  #      profile: true
+  #      header: false
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
