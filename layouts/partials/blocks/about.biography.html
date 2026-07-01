@@ -116,7 +116,25 @@
       </div>
       {{ end }}
 
-      {{ with $person.interests }}
+      {{ with $person.experience }}
+      <div class="col-md-4.5">
+        <div class="section-subheading">{{ i18n "experience" | markdownify }}</div>
+        <ul class="ul-edu fa-ul mb-0">
+          {{ range .positions }}
+          <li>
+            <i class="fa-li fa-solid fa-briefcase"></i>
+            <div class="description">
+              <p class="course">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <!-- <p class="institution">{{ .institution }}</p> -->
+              <p class="institution">{{ .institution | markdownify }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      <!-- {{ with $person.interests }}
       <div class="col-md-5">
         <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
         <ul class="ul-interests fa-ul mb-0">
@@ -128,8 +146,25 @@
           {{ end }}
         </ul>
       </div>
-      {{ end }}
+      {{ end }} -->
 
     </div>
+
+    {{ with $person.interests }}
+    <div class="col-md-15">
+      <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
+      
+      <ul class="ul-interests mb-0" 
+          style="display: flex; flex-wrap: wrap; gap: 20px; list-style: none; padding: 0; margin-left: 1rem;">
+        {{- range . -}}
+          <li style="display: flex; align-items: center; margin: 0;">
+            <i class="fa-solid fa-bookmark" style="margin-right: 8px;"></i>
+            <span>{{- . | markdownify | emojify -}}</span>
+          </li>
+        {{- end -}}
+      </ul>
+    </div>
+    {{ end }}
+
   </div>
 </div>

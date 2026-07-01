@@ -1,8 +1,8 @@
 ---
-# Display name
+# Display Name
 title: Ara Patvakanian
 
-# Full name (for SEO)
+# Full Name (for SEO)
 first_name: Ara
 last_name: Patvakanian
 
@@ -13,41 +13,44 @@ last_name: Patvakanian
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Senior Research Associate
+# Role/Position/Tagline
+role: # Fellow, Senior Research Associate
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations for About Widget
 organizations:
-  - name: Federal Reserve Bank of Boston
-    url: https://www.bostonfed.org/
+  - name: Fellow, Harvard Economics
+    url: https://www.economics.harvard.edu/
+  # - name: Federal Reserve Bank of Boston
+  #   url: https://www.bostonfed.org/
   # - name: University of Pennsylvania
   #   url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# Interests to show in About widget
-interests:
-  - Macroeconomics
-  - International Economics
-  - Macro-Finance
-  - Time Series Econometrics
-
-# Education to show in About widget
 education:
   courses:
     - course: Visiting Graduate Student, Economics
       institution: '[Harvard University](https://www.harvard.edu/) | 2025'
       year:
     - course: B.A., Mathematical Economics & Political Science
-      # institution: '[University of Pennsylvania](https://www.upenn.edu/) (2024)'
-      # institution: '<span style="font-size:1em;">[University of Pennsylvania](https://www.upenn.edu/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; &#8239; &#8239; 2024</span>'
-      # institution: '<span style="font-size:11pt;">[University of Pennsylvania](https://www.upenn.edu/) | 2024</span>'
       institution: '[University of Pennsylvania](https://www.upenn.edu/) | 2024'
       year: 
-    # - course: High School Diploma (2016 – 2020)
-    #   institution: Crescenta Valley High School
-    #   year:
+
+experience:
+  positions:
+    - position: Fellow
+      institution: '[Harvard University](https://www.harvard.edu/) | 2026'
+      year:
+    - position: Senior Research Associate
+      institution: '[Federal Reserve Bank of Boston](https://www.bostonfed.org/) | 2024–2026'
+      year:
+
+interests:
+  - Macroeconomics
+  - International Economics
+  - Macro-Finance
+  - Time Series Econometrics
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +73,11 @@ social:
     link: 'mailto:arap15@upenn.edu'
     display:
       header: true
+  # - icon: r
+  #   icon_pack: fas
+  #   link: 'https://ideas.repec.org/f/ppa1672.html'
+  #   display:
+  #     header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/AraPatvakanian
@@ -96,11 +104,8 @@ email: ''
 highlight_name: false
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic, social, and political consequence. I am a senior research associate in the Macroeconomics and Monetary Economics group at the Research Department of the Federal Reserve Bank of Boston. I hold a degree in Mathematical Economics and Political Science from the University of Pennsylvania and was a visiting graduate student at Harvard University. For more on my background, [see this article published by Penn](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian). 
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic and political consequence. I am a senior research associate at the Research Department of the Federal Reserve Bank of Boston and a fellow in the Department of Economics at Harvard University. Previously, I earned [my undergraduate](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) degree at the University of Pennsylvania.
 <!-- {style="text-align: justify;"} -->
 
-In my free time, I enjoy playing music, learning languages, and reading literature. My favorite novel is *The Count of Monte Cristo* by Alexandre Dumas.
-<!-- {style="text-align: justify;"} -->
-
-All expressed views are my own and do not necessarily reflect those of the Federal Reserve Bank of Boston or the Federal Reserve System.
+I also enjoy playing music, learning languages, and reading literature.
 <!-- {style="text-align: justify;"} -->
