@@ -104,8 +104,8 @@ email: ''
 highlight_name: false
 ---
 
-Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic and political consequence. I am a senior research associate at the Research Department of the Federal Reserve Bank of Boston and a fellow in the Department of Economics at Harvard University. Previously, I earned [my undergraduate](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) degree at the University of Pennsylvania.
+Welcome to my website! My name is Ara Patvakanian (Արա Պատվականյան). I am passionate about bringing theoretical and empirical tools to bear on studying various problems of economic and political consequence. I am a fellow in the Department of Economics at Harvard University and a senior research associate at the Federal Reserve Bank of Boston. Previously, I earned [my undergraduate degree](https://penntoday.upenn.edu/news/who-what-why-ara-patvakanian) at the University of Pennsylvania.
 <!-- {style="text-align: justify;"} -->
 
-I also enjoy playing music, learning languages, and reading literature.
+In my free time, I enjoy playing music, learning languages, and reading literature.
 <!-- {style="text-align: justify;"} -->

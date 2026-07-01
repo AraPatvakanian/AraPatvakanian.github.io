@@ -131,3 +131,19 @@ html, body {
   box-shadow: none !important;
   /* box-shadow: 0 0px 0px 0 rgba(255, 255, 255, 0.05); */
 }
+
+/* Custom Column Divs for Education & Experience Blocks in About Widget */
+.col-lg-5\.5,
+.col-lg-6\.5 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px; }
+
+.col-lg-5\.5 {
+  flex: 0 0 45.83333333%;
+  max-width: 45.83333333%; }
+
+.col-lg-6\.5 {
+  flex: 0 0 54.16666667%;
+  max-width: 54.16666667%; }
