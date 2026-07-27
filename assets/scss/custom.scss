@@ -1,3 +1,8 @@
+/* Fix Shifting Scrollbar */
+html {
+  scrollbar-gutter: stable;
+}
+
 /* Navigation Menu */
 /* Navigation Menu Sticky (Does Not Disappear on Scroll) */
 .navbar,
