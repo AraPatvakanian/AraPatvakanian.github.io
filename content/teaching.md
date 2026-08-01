@@ -12,9 +12,9 @@ sections:
       title: ""
       text: |
         # Teaching
-        All teaching materials are available in the [APTeachingLibrary](https://github.com/AraPatvakanian/APTeachingLibrary) repository on my GitHub, which contains notes, slides, and illustrative sample code primarily of interest to researchers working in economics. I hope to add more modules in the future while improving and expanding existing ones.
+        All teaching materials are available [here](https://github.com/AraPatvakanian/APTeachingLibrary) and contain notes, slides, and illustrative sample code primarily of interest to researchers working in economics. I hope to add more modules in the future while improving and expanding existing ones.
 
-        All errors are my own. If you find an error or have a comment or suggestion, please contact me at [arap15@upenn.edu](mailto:arap15@upenn.edu). The license for all teaching material I have authored can be found here: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+        All errors are my own. If you find any errors or have a comment or suggestion, please contact me at [arap15@upenn.edu](mailto:arap15@upenn.edu). The license for all teaching material I have authored can be found here: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
         <br>
 
         ## Modules
