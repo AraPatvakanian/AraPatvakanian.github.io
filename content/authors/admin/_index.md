@@ -20,6 +20,8 @@ role: # Fellow, Senior Research Associate
 organizations:
   - name: Fellow at Harvard Economics
     url: https://www.economics.harvard.edu/
+  - name: "& Global Economics Lab"
+    url: https://globaleconomicslab.org/
   # - name: Federal Reserve Bank of Boston
   #   url: https://www.bostonfed.org/
   # - name: University of Pennsylvania
@@ -40,7 +42,7 @@ education:
 experience:
   positions:
     - position: Fellow
-      institution: '[Harvard University](https://www.harvard.edu/) | 2026'
+      institution: '[Harvard University](https://www.harvard.edu/) & [Global Economics Lab](https://globaleconomicslab.org/) | 2026'
       year:
     - position: Senior Research Associate
       institution: '[Federal Reserve Bank of Boston](https://www.bostonfed.org/) | 2024–2026'

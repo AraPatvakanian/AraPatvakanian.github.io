@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://AraPatvakanian.GitHub.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://AraPatvakanian.GitHub.io/coursework/</loc>
+    <loc>http://localhost:1313/coursework/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://AraPatvakanian.GitHub.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://AraPatvakanian.GitHub.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

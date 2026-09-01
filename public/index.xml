@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ara Patvakanian</title>
-    <link>https://AraPatvakanian.GitHub.io/</link>
-      <atom:link href="https://AraPatvakanian.GitHub.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Ara Patvakanian</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://AraPatvakanian.GitHub.io/media/sharing.jpeg</url>
+      <url>http://localhost:1313/media/sharing.jpeg</url>
       <title>Ara Patvakanian</title>
-      <link>https://AraPatvakanian.GitHub.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://AraPatvakanian.GitHub.io/coursework/</link>
+      <link>http://localhost:1313/coursework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://AraPatvakanian.GitHub.io/coursework/</guid>
+      <guid>http://localhost:1313/coursework/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://AraPatvakanian.GitHub.io/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://AraPatvakanian.GitHub.io/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://AraPatvakanian.GitHub.io/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://AraPatvakanian.GitHub.io/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       <description></description>
     </item>
     
