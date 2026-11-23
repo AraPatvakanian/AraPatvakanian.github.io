@@ -14,8 +14,10 @@ sections:
         # Research
         
         ## Working Papers
-        "The Changing Vulnerability of the U.S. Economy to Oil Shocks" (with Danilo Leiva-León, Giovanni Olivei, Jenny Tang, and Egon Zakrajšek)
-        
+        <p style="padding-left: 2em; text-indent: -2em;">
+        Leiva-León, Danilo, Giovanni Olivei, Ara Patvakanian, Jenny Tang, and Egon Zakrajšek. 2026. "<a href=https://www.bostonfed.org/publications/research-department-working-paper/2026/changing-vulnerability-us-economy-oil-shocks.aspx>The Changing Vulnerability of the U.S. Economy to Oil Shocks</a>." Federal Reserve Bank of Boston Research Department Working Papers No. 26-16.
+        </p>
+
         "Labor Productivity and A.I. Adoption across U.S. Industries"
 
         ## Policy Publications
